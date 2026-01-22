@@ -47,7 +47,7 @@ export default function Live2D() {
   return (
     <canvas
       id='live2d'
-      width='300'
+      width='350'
       height='300'
       onClick={handleClick}
       className='cursor-grab'
